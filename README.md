@@ -9,5 +9,5 @@ foi criada a DenseNet-27.
 
 Com o objetivo de classificar raça de cachorro a partir de uma imagem 224x224, conseguindo métricas razoavelmente boas para uma rede neural que foi apenas treinada com os dados fornecidos.
 
-Dados : https://www.kaggle.com/code/stpeteishii/dog-breeds-70-classify-fasiai
+Dados : https://www.kaggle.com/datasets/gpiosenka/70-dog-breedsimage-data-set
 
